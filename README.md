@@ -1,4 +1,4 @@
-## Olá! Eu sou a Thais Soares
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&&vCenter=true&width=1000&lines=Olá!+Eu+sou+a+Thais+Soares+!😊​)](https://git.io/typing-svg)
 
 - 🌱 Estudando Full Stack(Digital College)
   
@@ -12,6 +12,8 @@
   <img align="center" alt="Thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thais-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Thais-Boostrap" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
   ## 
