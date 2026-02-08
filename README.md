@@ -1,12 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&&vCenter=true&width=1000&lines=Olá!+Eu+sou+a+Thais+Soares+!😊​)](https://git.io/typing-svg)
 
-- 🌱 Estudando Full Stack(Digital College)
-  
-<div>
-  <a href="https://github.com/ythaiss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ythaiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythaiss&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+- ✨ Cursos: Full Stack(Digital College)
+- 🌱 Cursando Engenharia de Software (Estácio)
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
